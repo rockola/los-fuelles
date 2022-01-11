@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(5.99.0-2514-g93e326803)*%
-%TF.CreationDate,2020-08-01T18:07:19+03:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,6.0.0+dfsg1-2*%
+%TF.CreationDate,2022-01-11T20:37:34+02:00*%
 %TF.ProjectId,los-fuelles,6c6f732d-6675-4656-9c6c-65732e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.99.0-2514-g93e326803)) date 2020-08-01 18:07:19*
+G04 Created by KiCad (PCBNEW 6.0.0+dfsg1-2) date 2022-01-11 20:37:34*
 %MOMM*%
 %LPD*%
 G01*

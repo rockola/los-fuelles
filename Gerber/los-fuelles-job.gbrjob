@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-2514-g93e326803)"
+      "Version": "6.0.0+dfsg1-2"
     },
-    "CreationDate": "2020-08-01T18:07:19+03:00"
+    "CreationDate": "2022-01-11T20:37:35+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.381,
       "TrackToRegion": 0.508,
@@ -54,12 +54,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "los-fuelles-F_SilkS.gto",
+      "Path": "los-fuelles-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "los-fuelles-B_SilkS.gbo",
+      "Path": "los-fuelles-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
